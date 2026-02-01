@@ -3,7 +3,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Random;
 
-public class LOPEZ_PrelimEx01 {
+public class CoinSimulator {
     public static void main(String[] args) {
 
         Object[][] data = new Object[10][4];
